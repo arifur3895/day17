@@ -1,0 +1,10 @@
+*{
+    margin: auto;
+}
+.header{
+    background-color: #34495e;
+}
+.part-1{
+    background: url(./istockphoto-494635982-612x612.jpg) no-repeat center center;
+    background-size: cover;
+}
